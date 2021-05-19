@@ -4,6 +4,7 @@
 #### Student | Coder | ios developer
 
 ◉ Love to explore and learn new things.
+
 ◉ Currently pursuing B.Tech in C.S.T at IIEST, Shibpur.
 
 
