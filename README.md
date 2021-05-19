@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/indranil-bain)  
+
 ### Hi... I'm Indranil Bain 😊
 #### Student | Coder | ios developer
 [Student | Coder | ios developer]
@@ -24,4 +26,3 @@ Skills: C / C++ / PYTHON / SWIFT / HTML
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=indranil-bain)  
 
-![Profile views](https://gpvc.arturio.dev/indranil-bain)  
