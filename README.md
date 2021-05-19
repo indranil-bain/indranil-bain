@@ -28,4 +28,4 @@ Skills: C / C++ / PYTHON / SWIFT / HTML
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=indranil-bain)  
 
-[©Designed by](https://github.com/indranil-bain)
+© ReadMe Designed by [Indranil Bain](https://www.instagram.com/always_in_hangover/)
