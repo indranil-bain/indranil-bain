@@ -11,7 +11,7 @@
  ◉ Currently pursuing B.Tech in C.S.T at IIEST, Shibpur.
 
 
-  Skills: C / C++ / PYTHON / SWIFT / HTML 
+       Skills: C / C++ / PYTHON / SWIFT / HTML 
 
 - 🌱 I’m currently learning Python, Swift, Javascript. 
 - 👯 I’m looking to collaborate on Startups. 
