@@ -1,9 +1,9 @@
 ![Profile views](https://gpvc.arturio.dev/indranil-bain)  
 
-### Hi... I'm Indranil Bain 😊
-#### Student | Coder | ios developer
 <img align='right' src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='350' height="550">
 
+### Hi... I'm Indranil Bain 😊
+#### Student | Coder | ios developer
 
 ◉ Love to explore and learn new things.
 
