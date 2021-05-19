@@ -15,7 +15,7 @@ Skills: C / C++ / PYTHON / SWIFT / HTML
 - ⚡ Fun fact: I can play the guitar too 🙂 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/indranil-bain)  [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/indranil-bain-7896a9182/)  [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/always_in_hangover/)  [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BainIndranil)  
+  [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/indranil-bain-7896a9182/)  [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/always_in_hangover/)  [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BainIndranil)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indranil-bain)](https://github.com/anuraghazra/github-readme-stats)
