@@ -1,7 +1,6 @@
 ### Hi... I'm Indranil Bain
 #### Student | Coder | ios developer
-![Student | Coder | ios developer]
-(https://github.com/indranil-bain/indranil-bain/blob/main/tumblr_a526fccbd6c2d4d2a8b99052a5913150_c95af39e_1280.png)
+[Student | Coder | ios developer](https://github.com/indranil-bain/indranil-bain/blob/main/tumblr_a526fccbd6c2d4d2a8b99052a5913150_c95af39e_1280.png)
 
 ◉ Love to explore and learn new things.
 ◉ Currently pursuing B.Tech in C.S.T at IIEST, Shibpur.
