@@ -2,7 +2,7 @@
 
 ### Hi... I'm Indranil Bain 😊
 #### Student | Coder | ios developer
-<img align='right' src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='350' height="450">
+<img align='right' src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='350' height="550">
 
 
 ◉ Love to explore and learn new things.
