@@ -22,10 +22,35 @@ Skills: C / C++ / PYTHON / SWIFT / HTML
   [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/indranil-bain-7896a9182/)  [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/always_in_hangover/)  [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BainIndranil)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indranil-bain)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=indranil-bain&show_icons=true)  
+<hr/>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=indranil-bain)  
+### Contributions
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theseregrets&theme=tokyonight&hide_border=true&fire=DD2727" alt="Theseregrets" />
+</div>
+<hr/>
+<div align="center">
+ 
+ ### GitHub Stats
+
+ <img  alt="Indranil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=indranil-bain&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727" />
+
+</div>
+<div align="center">
+ <hr/>
+ 
+### Most Used Languages
+
+<img align="center" alt="Indranil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil-bain&theme=tokyonight&hide_border=true&fire=DD2727" />
+</div>
+<br/>
+ <hr/>
+ <br/>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=indranil-bain&theme=github&count_private=true)  
 
 © ReadMe Designed by [Indranil Bain](https://www.instagram.com/always_in_hangover/)
