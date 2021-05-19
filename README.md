@@ -2,6 +2,7 @@
 
 ### Hi... I'm Indranil Bain 😊
 #### Student | Coder | ios developer
+[<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='40'>
 
 ◉ Love to explore and learn new things.
 
@@ -26,3 +27,4 @@ Skills: C / C++ / PYTHON / SWIFT / HTML
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=indranil-bain)  
 
+![Designed by](https://github.com/indranil-bain)
