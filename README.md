@@ -35,7 +35,7 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theseregrets&theme=tokyonight&hide_border=true&fire=DD2727" alt="Theseregrets" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=indranil-bain&theme=tokyonight&hide_border=true" alt="indranil-bain" />
 </div>
 <hr/>
 <div align="center">
