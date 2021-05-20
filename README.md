@@ -13,8 +13,7 @@
 
          Skills: C / C++ / PYTHON / SWIFT / HTML 
 
-- 🌱 I’m currently learning Python, Swift, Javascript. 
-- 👯 I’m looking to collaborate on Startups. 
+- 🌱 I’m currently learning Python, Swift, Javascript.  
 - 💬 Ask me about C, C++, Python. 
 - 📫 How to reach me: indranilbain@gmail.com 
 - ⚡ Fun fact: I can play the guitar too 🙂 
