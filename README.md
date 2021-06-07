@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/indranil-bain)  
 
-<img align='right' src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='350' height="500">
+<img align='right' src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='400' height="600">
 
 <h1 align="center"> Hi.. I'm Indranil Bain 😊 </h1>
       
