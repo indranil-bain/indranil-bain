@@ -11,12 +11,12 @@
  ◉ Currently pursuing B.Tech in C.S.T at IIEST, Shibpur.
 
 
-         Skills: C / C++ / PYTHON / SWIFT / HTML 
+        Skills: C / C++ / PYTHON / SWIFT / HTML 
 
 - 🌱 I’m currently learning Python, Swift, Javascript.  
 - 💬 Ask me about C, C++, Python. 
 - 📫 How to reach me: indranilbain@gmail.com 
-- ⚡ Fun fact: I can play the guitar too 🙂 
+- ⚡ Fun fact: I can play guitar too 🙂 
 
 </div>
 <hr/>
