@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/indranil-bain)  
+![](https://komarev.com/ghpvc/?username=indranil-bain&color=blue)
 
 <img align='right' src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='350' height="550">
 
