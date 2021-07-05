@@ -34,14 +34,14 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=indranil-bain&theme=tokyonight&hide_border=true" alt="indranil-bain" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=indranil-bain&theme=tokyonight&hide_border=true" alt="in-dro" />
 </div>
 <hr/>
 <div align="center">
  
  ### GitHub Stats
 
- <img  alt="Indranil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=indranil-bain&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727" />
+ <img  alt="Indranil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=in-dro&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727" />
 
 </div>
 <div align="center">
@@ -49,7 +49,7 @@
  
 ### Most Used Languages
 
-<img align="center" alt="Indranil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil-bain&theme=tokyonight&hide_border=true&fire=DD2727" />
+<img align="center" alt="Indranil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-dro&theme=tokyonight&hide_border=true&fire=DD2727" />
 </div>
 <br/>
  <hr/>
@@ -59,5 +59,5 @@
 
  © Designed by [Indranil Bain](https://www.instagram.com/always_in_hangover/)
  
- [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/indranil-bain-7896a9182/) [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/always_in_hangover/) [<img src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BainIndranil)
+ [<img src='https://github.com/indranil-bain/in-dro/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/indranil-bain-7896a9182/) [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/always_in_hangover/) [<img src='https://github.com/indranil-bain/ind-dro/blob/main/Readme%20file/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BainIndranil)
 
