@@ -59,5 +59,6 @@
 
  © Designed by [Indranil Bain](https://www.instagram.com/always_in_hangover/)
  
- [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/indranil-bain-7896a9182/) [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/always_in_hangover/) [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BainIndranil)
+      
+ [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/indranil-bain-7896a9182/) [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/always_in_hangover/) [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/twitter.svg' alt='twitter' height='30'>](https://twitter.com/BainIndranil)
 
