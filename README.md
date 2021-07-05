@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=indranil-bain&style=flat-round)
+![](https://komarev.com/ghpvc/?username=in-dro&style=flat-round)
 
-<img align='right' src='https://github.com/indranil-bain/indranil-bain/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='350' height="550">
+<img align='right' src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='350' height="550">
 
 <h1 align="center"> Hi.. I'm Indranil Bain 😊 </h1>
       
