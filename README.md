@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Python, Swift, Javascript.  
 - 💬 Ask me about C, C++, Python. 
-- 📫 How to reach me: indranilbain@gmail.com 
+- 📫 How to reach me: indranilbain14@gmail.com 
 - ⚡ Fun fact: I can play guitar too 🙂 
 
 </div>
