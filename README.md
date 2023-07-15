@@ -55,8 +55,6 @@
  <hr/>
  <br/>
  
-[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=not-indro&theme=github&count_private=true)  
-
  © Designed by [Indranil Bain](https://www.instagram.com/indrospect/)
  
       
