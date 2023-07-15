@@ -34,14 +34,14 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=in-dro&theme=tokyonight&hide_border=true" alt="in-dro" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=in-dro&theme=tokyonight&hide_border=true" alt="not-indro" />
 </div>
 <hr/>
 <div align="center">
  
  ### GitHub Stats
 
- <img  alt="Indranil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=in-dro&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727" />
+ <img  alt="Indranil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=not-indro&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727" />
 
 </div>
 <div align="center">
@@ -49,16 +49,16 @@
  
 ### Most Used Languages
 
-<img align="center" alt="Indranil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-dro&theme=tokyonight&hide_border=true&fire=DD2727" />
+<img align="center" alt="Indranil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-indro&theme=tokyonight&hide_border=true&fire=DD2727" />
 </div>
 <br/>
  <hr/>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=in-dro&theme=github&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=not-indro&theme=github&count_private=true)  
 
- © Designed by [Indranil Bain](https://www.instagram.com/always_in_hangover/)
+ © Designed by [Indranil Bain](https://www.instagram.com/indrospect/)
  
       
- [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/indranil-bain-7896a9182/) [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/always_in_hangover/) [<img src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/twitter.svg' alt='twitter' height='30'>](https://twitter.com/BainIndranil)
+ [<img src='https://github.com/not-indro/not-indro/blob/main/Readme%20file/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/indranil-bain-7896a9182/) [<img src='https://github.com/not-indro/not-indro/blob/main/Readme%20file/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/indrospect/) [<img src='https://github.com/not-indro/not-indro/blob/main/Readme%20file/twitter.svg' alt='twitter' height='30'>](https://twitter.com/BainIndranil)
 
