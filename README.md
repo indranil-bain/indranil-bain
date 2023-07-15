@@ -34,7 +34,7 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=in-dro&theme=tokyonight&hide_border=true" alt="not-indro" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=not-indro&theme=tokyonight&hide_border=true" alt="not-indro" />
 </div>
 <hr/>
 <div align="center">
