@@ -4,19 +4,19 @@
 
 <h1 align="center"> Hi.. I'm Indranil Bain 😊 </h1>
       
-         Student | Coder | ios developer
+         UI/UX Designer | Front-end Dev | Data Analyst
 
  ◉ Love to explore and learn new things.
 
- ◉ Currently pursuing B.Tech in C.S.T at IIEST, Shibpur.
+ ◉ 2024 Grad - C.S.T at IIEST, Shibpur.
 
 
-        Skills: C / C++ / PYTHON / SWIFT / HTML 
+        Skills:  C++ / PYTHON / Reactjs / Nextjs / Tailwind CSS / AWS
 
-- 🌱 I’m currently learning Python, Swift and Javascript.  
-- 💬 Ask me about C, C++, Python. 
+- 🌱 I’m currently learning Nextjs & AWS.  
+- 💬 Ask me about Python, UI/UX Designing. 
 - 📫 How to reach me: indranilbain14@gmail.com 
-- ⚡ Fun fact: I can play guitar too 🙂 
+- ⚡ Fun fact: Club level Badminton Player 🙂 
 
 </div>
 <hr/>
