@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/in-dro/in-dro/blob/main/Readme%20file/-a-dragon-ball-z.gif' width='350' height="550">
 
-<h1 align="center"> Hi.. I'm Indranil Bain 😊 </h1>
+<h1 align="center"> Hey, Indranil This Side 😊 </h1>
       
          UI/UX Designer | Front-end Dev | Data Analyst
 
